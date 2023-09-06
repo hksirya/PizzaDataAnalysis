@@ -6,7 +6,7 @@ This project involved a year-long analysis of a pizza store's data, utilizing KP
 - Power BI
 
 # Presentation 
-Link : https://www.canva.com/design/DAFttIRUvsI/di57e-luSZh3h1ODLoPQ7w/view?utm_content=DAFttIRUvsI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+Link : [Presentation](https://www.canva.com/design/DAFttIRUvsI/di57e-luSZh3h1ODLoPQ7w/view?utm_content=DAFttIRUvsI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 # ScreenShot of Dashboard
 ![Screenshot (814)](https://github.com/hksirya/PizzaDataAnalysis/assets/104431269/3f82fdf9-f42d-4445-b928-b6f45423ca0c)
 ![Screenshot (815)](https://github.com/hksirya/PizzaDataAnalysis/assets/104431269/b4dd5db1-a04e-4b7f-a302-72e150e61bac)
